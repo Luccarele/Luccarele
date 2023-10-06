@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 Desenvolvedor Front-End<br>📂 No momento eu busco e direciono recursos para um pontapé inicial na área de Desenvolvimento Web<br>🤝 Estou pronto para colaborar com ótimos conhecimentos além de boa capacidade de aprendizado.<br>🌱 Evidencio boa noção de HTML, CSS, Java Script e Bootstrap<br>💬 Disponível de maneira remota e integral para projetos diversos que o mercado ofereça.<br>⚡ Começo imediato, vamos conversar!!
+👨🏻‍💻 Desenvolvedor Front-End<br>📂 Cursando Analise e Desenvolviemento de sistemas e no momento eu busco e direciono recursos para um pontapé inicial na área de Desenvolvimento Web<br>🤝 Estou pronto para colaborar com ótimos conhecimentos além de boa capacidade de aprendizado.<br>🌱 Evidencio boa noção de HTML, CSS, Java Script e Bootstrap<br>💬 Disponível de maneira remota e integral para projetos diversos que o mercado ofereça.<br>⚡ Começo imediato, vamos conversar!!
 
 
 ## 🌐 Socials:
